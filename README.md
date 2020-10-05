@@ -1,1 +1,1 @@
-# tetrispython
+Python practice
